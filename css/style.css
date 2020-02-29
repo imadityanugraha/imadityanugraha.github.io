@@ -241,6 +241,10 @@ ul.social-icons {
   width: 185px;
 }
 
+/* #portifolio-list li {
+  background-color: rgb(219, 219, 219);
+} */
+
 #portifolio-list li:hover .title {
   color: #8a66ee;
 }
